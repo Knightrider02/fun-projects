@@ -1,2 +1,2 @@
-# special-winner
+# mini projects
 mini projects
