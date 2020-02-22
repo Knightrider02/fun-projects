@@ -1,2 +1,2 @@
-# mini projects
+# fun-projects
 mini projects
